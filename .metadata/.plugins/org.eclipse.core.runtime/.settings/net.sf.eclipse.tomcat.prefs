@@ -1,0 +1,6 @@
+computeSourcePath=true
+contextsDir=/Users/apple/Library/tomcat/conf/Catalina/localhost
+eclipse.preferences.version=1
+tomcatConfigFile=/Users/apple/Library/tomcat/conf/server.xml
+tomcatDir=/Users/apple/Library/tomcat
+tomcatVersion=tomcatV7
